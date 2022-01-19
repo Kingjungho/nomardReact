@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Kingjungho/nomardReact.git/static/css/main.7cf3ef59.css",
-    "main.js": "/Kingjungho/nomardReact.git/static/js/main.b4edbbc5.js",
-    "index.html": "/Kingjungho/nomardReact.git/index.html",
-    "main.7cf3ef59.css.map": "/Kingjungho/nomardReact.git/static/css/main.7cf3ef59.css.map",
-    "main.b4edbbc5.js.map": "/Kingjungho/nomardReact.git/static/js/main.b4edbbc5.js.map"
+    "main.css": "/Kingjungho/nomardReact/static/css/main.7cf3ef59.css",
+    "main.js": "/Kingjungho/nomardReact/static/js/main.b4edbbc5.js",
+    "index.html": "/Kingjungho/nomardReact/index.html",
+    "main.7cf3ef59.css.map": "/Kingjungho/nomardReact/static/css/main.7cf3ef59.css.map",
+    "main.b4edbbc5.js.map": "/Kingjungho/nomardReact/static/js/main.b4edbbc5.js.map"
   },
   "entrypoints": [
     "static/css/main.7cf3ef59.css",
